@@ -11,6 +11,7 @@ to copy code from this gist.
 Please follow the below steps:
 
   ●     Download a small set of image data from here. 
+  
   ●     Upload the contents of the folder downloaded above.
   
 

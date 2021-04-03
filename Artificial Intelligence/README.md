@@ -16,3 +16,8 @@ Please follow the below steps:
   
 
 The required changes are made to the given collab file and the folder faces contains the data images.
+
+#### Image of Working
+![](Output%20Image%201.png)
+
+![](Output%20Image%202.png)

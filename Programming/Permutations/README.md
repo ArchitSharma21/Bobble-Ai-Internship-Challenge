@@ -12,3 +12,5 @@ The problem is solved in python programming language, being an mostly interprete
   3. Run command >python3 Permutations.py input.csv or >python Permutations.py input.csv on the terminal. This step can also be performed using Anaconda Prompt.
 
 #### Image of working:-
+
+![](Output%20Image.png)

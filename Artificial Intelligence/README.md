@@ -9,7 +9,9 @@ The overall statement along with a workable gist [without solution] can be found
 to copy code from this gist. 
 
 Please follow the below steps:
-  ● Download a small set of image data from here. 
-  ● Upload the contents of the folder downloaded above.
+
+  ●     Download a small set of image data from here. 
+  ●     Upload the contents of the folder downloaded above.
   
+
 The required changes are made to the given collab file and the folder faces contains the data images.
